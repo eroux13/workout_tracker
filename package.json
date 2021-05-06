@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/eroux13/workout_tracker#readme",
   "dependencies": {
+    "chalk": "^4.1.1",
     "express": "^4.17.1",
     "mongoose": "^5.12.7",
     "morgan": "^1.10.0"

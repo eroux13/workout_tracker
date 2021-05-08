@@ -1,6 +1,6 @@
 // Import Dependencies
 const router = require("express").Router();
-const path = reauire("path");
+const path = require("path");
 
 // Routes
 router.get("*", (req, res) => {
